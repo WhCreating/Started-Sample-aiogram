@@ -1,0 +1,4 @@
+aiogram==3.18.0
+colorama==0.4.6
+environs==14.1.1
+PyYAML==6.0.2
